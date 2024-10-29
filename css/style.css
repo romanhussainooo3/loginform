@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 100px;
+    height: auto;
+}
+.login{
+    width: 600px;
+    background: red;
+    margin: 40px auto 0;
+    padding: 40px;
+    border-radius: 10px;
+}
